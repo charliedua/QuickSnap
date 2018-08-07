@@ -4,5 +4,8 @@ tmp
 out.log
 .DS_Store
 db.lock
+<<<<<<< HEAD
 *.vs
 
+=======
+>>>>>>> add-player-hit
